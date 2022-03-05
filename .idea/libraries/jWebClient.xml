@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jWebClient">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../jWebClient/out/artifacts/jWebClient_jar/jWebClient.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
